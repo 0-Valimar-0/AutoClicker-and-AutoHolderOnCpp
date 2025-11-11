@@ -1,1 +1,1 @@
-# Clicker-AutoHolderOnCpp
+# AutoClicker-and-AutoHolderOnCpp
